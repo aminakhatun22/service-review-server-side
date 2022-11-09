@@ -33,8 +33,6 @@ yarn-error.log*
 
 
 
-public
-src
-package.json
-package-lock.json
-README.md 
+
+
+
